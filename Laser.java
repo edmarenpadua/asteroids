@@ -1,4 +1,5 @@
 /*
+* Resource:
 * Java Applet implementation of Asteroids using
 * http://students.cs.byu.edu/~nodnarb5/AsteroidsManual/Asteroids%20Manual.pdf
 */
